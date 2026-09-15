@@ -6,8 +6,8 @@ resolver = "2"
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.85"
-authors = ["Azreva"]
-repository = "https://github.com/Azreva/recall"
+authors = ["Avenelle"]
+repository = "https://github.com/Avenelle/recall"
 publish = false
 
 [workspace.dependencies]
